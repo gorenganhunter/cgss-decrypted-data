@@ -1,0 +1,7 @@
+time,move_type,BPM,color_pattern,color1,color2,color3,color4,color5,width1,width2,width3,width4,width5,3D_move_type,3D_BPM,start_image
+0,Uhoi,5,All1,Pink01,,,,,,,,,,Uhoi,1,0
+1.548387,Uhoi,5,All1,Pink01,,,,,,,,,,Oioi,155,0
+120.774194,Uhoi,5,All1,Pink01,,,,,,,,,,Uhoi,77.5,0
+121.548387,Uhoi,5,All1,Pink01,,,,,,,,,,Uhoi,155,8
+121.935484,Uhoi,5,All1,Pink01,,,,,,,,,,Uhoi,25.83333333,0
+124.258065,Uhoi,5,All1,Pink01,,,,,,,,,,Pause,155,0
