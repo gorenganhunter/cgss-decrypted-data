@@ -1,0 +1,8 @@
+[{"id":1,"campaign_id":20007,"evaluation_min":1,"evaluation_max":29,"seal_result":1},
+{"id":2,"campaign_id":20007,"evaluation_min":30,"evaluation_max":49,"seal_result":2},
+{"id":3,"campaign_id":20007,"evaluation_min":50,"evaluation_max":79,"seal_result":3},
+{"id":4,"campaign_id":20007,"evaluation_min":80,"evaluation_max":100,"seal_result":4},
+{"id":5,"campaign_id":20008,"evaluation_min":1,"evaluation_max":29,"seal_result":1},
+{"id":6,"campaign_id":20008,"evaluation_min":30,"evaluation_max":49,"seal_result":2},
+{"id":7,"campaign_id":20008,"evaluation_min":50,"evaluation_max":79,"seal_result":3},
+{"id":8,"campaign_id":20008,"evaluation_min":80,"evaluation_max":100,"seal_result":4}]

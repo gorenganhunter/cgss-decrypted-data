@@ -1,0 +1,9 @@
+[{"id":101,"description":"LIVEの獲得経験値が1.5倍 !","type":24,"value":15000,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":4,"panel_frame_id":0,"sort_order":2},
+{"id":102,"description":"LIVEでマニーを追加獲得 !","type":24,"value":0,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":4,"panel_frame_id":0,"sort_order":3},
+{"id":103,"description":"LIVEの獲得ファン数が1.1倍 !","type":44,"value":11000,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":4,"panel_frame_id":0,"sort_order":4},
+{"id":104,"description":"営業の獲得経験値が1.5倍 !","type":92,"value":15000,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":6,"panel_frame_id":0,"sort_order":5},
+{"id":105,"description":"営業でマニーを追加獲得 !","type":92,"value":0,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":6,"panel_frame_id":0,"sort_order":6},
+{"id":106,"description":"営業の獲得ファン数が1.1倍 !","type":93,"value":11000,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":6,"panel_frame_id":0,"sort_order":7},
+{"id":107,"description":"ログインボーナスでオートLIVE\\nチケットを追加獲得 !","type":201,"value":5,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":4,"panel_frame_id":0,"sort_order":8},
+{"id":108,"description":"LIVE PARTY!!の獲得スター\\nエンブレムが1.5倍 !","type":202,"value":15000,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":13,"panel_frame_id":0,"sort_order":9},
+{"id":109,"description":"プラチナオーディションガシャ1日1回無料 !","type":87,"value":1,"icon_img":100,"start_date":"2020-01-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":7,"panel_frame_id":155,"sort_order":1}]

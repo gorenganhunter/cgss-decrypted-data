@@ -1,0 +1,5 @@
+[{"id":1,"event_id":1096,"live_detail_id":4030,"max_event_point":130,"cost_type":5,"cost_id":50096,"cost_value":75,"bet_type":1},
+{"id":2,"event_id":1096,"live_detail_id":4031,"max_event_point":170,"cost_type":5,"cost_id":50096,"cost_value":90,"bet_type":1},
+{"id":3,"event_id":1096,"live_detail_id":4032,"max_event_point":240,"cost_type":5,"cost_id":50096,"cost_value":120,"bet_type":1},
+{"id":4,"event_id":1096,"live_detail_id":4033,"max_event_point":320,"cost_type":5,"cost_id":50096,"cost_value":150,"bet_type":1},
+{"id":5,"event_id":1096,"live_detail_id":4034,"max_event_point":320,"cost_type":5,"cost_id":50096,"cost_value":150,"bet_type":1}]

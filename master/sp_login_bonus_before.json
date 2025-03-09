@@ -1,0 +1,13 @@
+[{"id":1,"count":1,"chara_max":11,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":2,"count":2,"chara_max":12,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":3,"count":3,"chara_max":11,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":4,"count":4,"chara_max":15,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":5,"count":5,"chara_max":15,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":6,"count":6,"chara_max":14,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":7,"count":7,"chara_max":13,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":8,"count":8,"chara_max":14,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":9,"count":9,"chara_max":14,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":10,"count":10,"chara_max":12,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":11,"count":11,"chara_max":15,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":12,"count":12,"chara_max":14,"reward_type":4,"reward_id":0,"reward_num":50},
+{"id":13,"count":13,"chara_max":1,"reward_type":0,"reward_id":0,"reward_num":0}]

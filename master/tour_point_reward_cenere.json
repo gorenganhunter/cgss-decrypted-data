@@ -1,0 +1,11 @@
+[{"id":1,"event_id":5040,"need_point":500,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":2,"event_id":5040,"need_point":1000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":3,"event_id":5040,"need_point":2000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":4,"event_id":5040,"need_point":3000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":5,"event_id":5040,"need_point":4000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":6,"event_id":5040,"need_point":5000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":7,"event_id":5040,"need_point":6000,"reward_type":6,"reward_id":101383,"reward_value":1,"add_value_1":1,"add_value_2":0,"add_value_3":1},
+{"id":8,"event_id":5040,"need_point":7000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":9,"event_id":5040,"need_point":8000,"reward_type":4,"reward_id":0,"reward_value":50,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":10,"event_id":5040,"need_point":9000,"reward_type":5,"reward_id":6401,"reward_value":5,"add_value_1":0,"add_value_2":0,"add_value_3":0},
+{"id":11,"event_id":5040,"need_point":10000,"reward_type":6,"reward_id":301347,"reward_value":1,"add_value_1":1,"add_value_2":0,"add_value_3":1}]

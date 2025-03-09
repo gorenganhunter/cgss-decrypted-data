@@ -1,0 +1,12 @@
+[{"id":6841,"event_id":9001,"type":1,"open_event_point":0,"next_detail_id":6842},
+{"id":6842,"event_id":9001,"type":2,"open_event_point":0,"next_detail_id":0},
+{"id":6843,"event_id":9001,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":6844,"event_id":9001,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":6941,"event_id":9002,"type":1,"open_event_point":0,"next_detail_id":6942},
+{"id":6942,"event_id":9002,"type":2,"open_event_point":0,"next_detail_id":0},
+{"id":6943,"event_id":9002,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":6944,"event_id":9002,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":7052,"event_id":9003,"type":1,"open_event_point":0,"next_detail_id":7053},
+{"id":7053,"event_id":9003,"type":2,"open_event_point":0,"next_detail_id":0},
+{"id":7054,"event_id":9003,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":7055,"event_id":9003,"type":0,"open_event_point":0,"next_detail_id":0}]

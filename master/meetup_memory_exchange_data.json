@@ -1,0 +1,6 @@
+[{"id":1,"memory_group_id":1,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-06-06 15:00:00","end_date":""},
+{"id":2,"memory_group_id":2,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-06-06 15:00:00","end_date":""},
+{"id":3,"memory_group_id":3,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-08-27 15:00:00","end_date":""},
+{"id":4,"memory_group_id":4,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-08-27 15:00:00","end_date":""},
+{"id":5,"memory_group_id":5,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-12-27 15:00:00","end_date":""},
+{"id":6,"memory_group_id":6,"cost_type":5,"cost_id":1001,"cost_value":9,"start_date":"2024-12-27 15:00:00","end_date":""}]

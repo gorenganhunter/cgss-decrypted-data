@@ -1,0 +1,3 @@
+[{"personality":1,"idle_loop_motion_id":2,"think_motion_id":5,"think_loop_motion_id":8,"happy_motion_id":14,"sad_motion_id":17,"very_happy_motion_id":20,"very_happy_loop_motion_id":21,"clap_motion_id":26,"clap_loop_motion_id":29},
+{"personality":2,"idle_loop_motion_id":3,"think_motion_id":6,"think_loop_motion_id":9,"happy_motion_id":15,"sad_motion_id":18,"very_happy_motion_id":22,"very_happy_loop_motion_id":23,"clap_motion_id":27,"clap_loop_motion_id":29},
+{"personality":3,"idle_loop_motion_id":4,"think_motion_id":7,"think_loop_motion_id":10,"happy_motion_id":16,"sad_motion_id":19,"very_happy_motion_id":24,"very_happy_loop_motion_id":25,"clap_motion_id":28,"clap_loop_motion_id":29}]
