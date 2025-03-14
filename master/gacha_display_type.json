@@ -249,4 +249,8 @@
 {"id":250,"gacha_id":31067,"display_type":1,"parts_num":66,"extended_value":"{0:18,1:23}"},
 {"id":251,"gacha_id":60405,"display_type":1,"parts_num":22,"extended_value":"{0:18,1:01}"},
 {"id":252,"gacha_id":60406,"display_type":1,"parts_num":22,"extended_value":"{0:21,1:4}"},
-{"id":253,"gacha_id":60407,"display_type":1,"parts_num":22,"extended_value":"{0:21,1:4}"}]
+{"id":253,"gacha_id":60407,"display_type":1,"parts_num":22,"extended_value":"{0:21,1:4}"},
+{"id":254,"gacha_id":31076,"display_type":1,"parts_num":73,"extended_value":"{0:24,1:29}"},
+{"id":255,"gacha_id":60413,"display_type":1,"parts_num":25,"extended_value":"{0:22,1:2}"},
+{"id":256,"gacha_id":60414,"display_type":1,"parts_num":24,"extended_value":"{0:22,1:3}"},
+{"id":257,"gacha_id":60415,"display_type":1,"parts_num":24,"extended_value":"{0:23,1:4}"}]

@@ -65,5 +65,7 @@
 {"id":147,"type":3,"odds_name":"250130_loading","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-01-30 15:00:00","end_date":"2025-02-14 14:59:59","loop_start":0,"main_reward_id":0,"name":"ノスタルジーあにぷちガシャ"},
 {"id":148,"type":2,"odds_name":"250214_sticker","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-14 15:00:00","end_date":"2025-02-27 14:59:59","loop_start":0,"main_reward_id":0,"name":"あにぷちガシャ"},
 {"id":149,"type":3,"odds_name":"250214_loading","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-14 15:00:00","end_date":"2025-02-27 14:59:59","loop_start":0,"main_reward_id":0,"name":"ノスタルジーあにぷちガシャ"},
-{"id":150,"type":2,"odds_name":"250227_sticker","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-27 15:00:00","end_date":"2030-04-01 14:59:59","loop_start":0,"main_reward_id":0,"name":"あにぷちガシャ"},
-{"id":151,"type":3,"odds_name":"250227_loading","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-27 15:00:00","end_date":"2030-04-01 14:59:59","loop_start":0,"main_reward_id":0,"name":"ノスタルジーあにぷちガシャ"}]
+{"id":150,"type":2,"odds_name":"250227_sticker","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-27 15:00:00","end_date":"2025-03-14 14:59:59","loop_start":0,"main_reward_id":0,"name":"あにぷちガシャ"},
+{"id":151,"type":3,"odds_name":"250227_loading","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-02-27 15:00:00","end_date":"2025-03-14 14:59:59","loop_start":0,"main_reward_id":0,"name":"ノスタルジーあにぷちガシャ"},
+{"id":152,"type":2,"odds_name":"250314_sticker","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-03-14 15:00:00","end_date":"2030-04-01 14:59:59","loop_start":0,"main_reward_id":0,"name":"あにぷちガシャ"},
+{"id":153,"type":3,"odds_name":"250314_loading","cost_type":5,"cost_id":22001,"cost_value":1,"start_date":"2025-03-14 15:00:00","end_date":"2030-04-01 14:59:59","loop_start":0,"main_reward_id":0,"name":"ノスタルジーあにぷちガシャ"}]

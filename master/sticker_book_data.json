@@ -246,4 +246,11 @@
 {"id":246,"rarity":1,"page_index":29,"sticker_order":4,"sticker_pos_x":-220,"sticker_pos_y":-103},
 {"id":247,"rarity":1,"page_index":29,"sticker_order":5,"sticker_pos_x":0,"sticker_pos_y":-103},
 {"id":248,"rarity":3,"page_index":9,"sticker_order":4,"sticker_pos_x":-220,"sticker_pos_y":-103},
-{"id":249,"rarity":3,"page_index":9,"sticker_order":5,"sticker_pos_x":0,"sticker_pos_y":-103}]
+{"id":249,"rarity":3,"page_index":9,"sticker_order":5,"sticker_pos_x":0,"sticker_pos_y":-103},
+{"id":250,"rarity":1,"page_index":29,"sticker_order":6,"sticker_pos_x":220,"sticker_pos_y":-103},
+{"id":251,"rarity":1,"page_index":30,"sticker_order":1,"sticker_pos_x":-220,"sticker_pos_y":103},
+{"id":252,"rarity":1,"page_index":30,"sticker_order":2,"sticker_pos_x":0,"sticker_pos_y":103},
+{"id":253,"rarity":1,"page_index":30,"sticker_order":3,"sticker_pos_x":220,"sticker_pos_y":103},
+{"id":254,"rarity":2,"page_index":24,"sticker_order":1,"sticker_pos_x":0,"sticker_pos_y":0},
+{"id":255,"rarity":3,"page_index":9,"sticker_order":6,"sticker_pos_x":220,"sticker_pos_y":-103},
+{"id":256,"rarity":3,"page_index":10,"sticker_order":1,"sticker_pos_x":-220,"sticker_pos_y":103}]
