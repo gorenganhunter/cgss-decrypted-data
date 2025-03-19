@@ -386,4 +386,12 @@
 {"id":386,"event_id":7018,"count":9,"reward_type":5,"reward_id":64018,"reward_value":100,"image":"item_64001_s"},
 {"id":387,"event_id":7018,"count":10,"reward_type":5,"reward_id":64018,"reward_value":100,"image":"item_64001_s"},
 {"id":388,"event_id":7018,"count":11,"reward_type":5,"reward_id":64018,"reward_value":100,"image":"item_64001_s"},
-{"id":389,"event_id":7018,"count":12,"reward_type":5,"reward_id":64018,"reward_value":100,"image":"item_64001_s"}]
+{"id":389,"event_id":7018,"count":12,"reward_type":5,"reward_id":64018,"reward_value":100,"image":"item_64001_s"},
+{"id":390,"event_id":9004,"count":1,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":391,"event_id":9004,"count":2,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":392,"event_id":9004,"count":3,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":393,"event_id":9004,"count":4,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":394,"event_id":9004,"count":5,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":395,"event_id":9004,"count":6,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":396,"event_id":9004,"count":7,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"},
+{"id":397,"event_id":9004,"count":8,"reward_type":5,"reward_id":65007,"reward_value":3,"image":"item_65007_s"}]
