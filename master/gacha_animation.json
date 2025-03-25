@@ -1132,4 +1132,15 @@
 {"gacha_id":31075,"seq":1,"card_id":101181},
 {"gacha_id":31075,"seq":2,"card_id":201025},
 {"gacha_id":31075,"seq":3,"card_id":301253},
-{"gacha_id":31077,"seq":1,"card_id":201459}]
+{"gacha_id":31077,"seq":1,"card_id":201459},
+{"gacha_id":31078,"seq":1,"card_id":201379},
+{"gacha_id":31078,"seq":2,"card_id":201269},
+{"gacha_id":31078,"seq":3,"card_id":201101},
+{"gacha_id":31079,"seq":1,"card_id":101325},
+{"gacha_id":31079,"seq":2,"card_id":301303},
+{"gacha_id":31080,"seq":1,"card_id":301191},
+{"gacha_id":31080,"seq":2,"card_id":201259},
+{"gacha_id":31080,"seq":3,"card_id":101219},
+{"gacha_id":31081,"seq":1,"card_id":201121},
+{"gacha_id":31081,"seq":2,"card_id":301069},
+{"gacha_id":31081,"seq":3,"card_id":101095}]
