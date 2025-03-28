@@ -591,4 +591,6 @@
 {"event_id":3050,"reward_id":101379,"recommend_order":1},
 {"event_id":3050,"reward_id":201451,"recommend_order":2},
 {"event_id":1096,"reward_id":201455,"recommend_order":1},
-{"event_id":1096,"reward_id":301349,"recommend_order":2}]
+{"event_id":1096,"reward_id":301349,"recommend_order":2},
+{"event_id":3051,"reward_id":301353,"recommend_order":1},
+{"event_id":3051,"reward_id":301355,"recommend_order":2}]
