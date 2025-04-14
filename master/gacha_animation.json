@@ -1148,4 +1148,7 @@
 {"gacha_id":31083,"seq":1,"card_id":101391},
 {"gacha_id":31083,"seq":2,"card_id":201463},
 {"gacha_id":31084,"seq":1,"card_id":301327},
-{"gacha_id":31084,"seq":2,"card_id":201425}]
+{"gacha_id":31084,"seq":2,"card_id":201425},
+{"gacha_id":31086,"seq":1,"card_id":101293},
+{"gacha_id":31086,"seq":2,"card_id":201159},
+{"gacha_id":31086,"seq":3,"card_id":301151}]
