@@ -19,6 +19,7 @@
 {"id":118,"disp_order":19,"disp_name":"心飛び跳ねるお月見ポーズ","motion_id":118,"fade_msec":1000,"cutt_name":"Cutt_Pose0118","motion_num":1,"attribute":5,"chara_id":0,"kana_name":"こころとびはねるおつきみぽーず"},
 {"id":119,"disp_order":20,"disp_name":"さぁ ! おしくらまんじゅう","motion_id":119,"fade_msec":1000,"cutt_name":"Cutt_Pose0119","motion_num":1,"attribute":5,"chara_id":0,"kana_name":"さぁおしくらまんじゅう"},
 {"id":120,"disp_order":21,"disp_name":"いっしょに輝く夢の世界へ♡","motion_id":120,"fade_msec":1000,"cutt_name":"Cutt_Pose0120","motion_num":1,"attribute":5,"chara_id":0,"kana_name":"いっしょにかがやくゆめのせかいへ"},
+{"id":121,"disp_order":22,"disp_name":"あなたと待ち合わせ","motion_id":121,"fade_msec":1000,"cutt_name":"Cutt_Pose0121","motion_num":1,"attribute":5,"chara_id":0,"kana_name":"あなたとまちあわせ"},
 {"id":201,"disp_order":21,"disp_name":"手を振って !","motion_id":201,"fade_msec":1000,"cutt_name":"Cutt_Pose0201","motion_num":2,"attribute":5,"chara_id":0,"kana_name":"てをふって"},
 {"id":202,"disp_order":22,"disp_name":"挨拶しよう !","motion_id":202,"fade_msec":1000,"cutt_name":"Cutt_Pose0202","motion_num":2,"attribute":5,"chara_id":0,"kana_name":"あいさつしよう"},
 {"id":203,"disp_order":23,"disp_name":"ポーズをとってみて !","motion_id":203,"fade_msec":1000,"cutt_name":"Cutt_Pose0203","motion_num":2,"attribute":5,"chara_id":0,"kana_name":"ぽーずをとってみて"},
