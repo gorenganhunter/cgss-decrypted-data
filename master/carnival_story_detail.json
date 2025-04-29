@@ -198,4 +198,11 @@
 {"id":7092,"event_id":7018,"type":0,"open_step_id":6,"next_detail_id":7093},
 {"id":7093,"event_id":7018,"type":2,"open_step_id":0,"next_detail_id":0},
 {"id":7094,"event_id":7018,"type":0,"open_step_id":0,"next_detail_id":0},
-{"id":7095,"event_id":7018,"type":0,"open_step_id":0,"next_detail_id":0}]
+{"id":7095,"event_id":7018,"type":0,"open_step_id":0,"next_detail_id":0},
+{"id":7164,"event_id":7019,"type":1,"open_step_id":0,"next_detail_id":7165},
+{"id":7165,"event_id":7019,"type":0,"open_step_id":2,"next_detail_id":7166},
+{"id":7166,"event_id":7019,"type":0,"open_step_id":3,"next_detail_id":7167},
+{"id":7167,"event_id":7019,"type":0,"open_step_id":4,"next_detail_id":7168},
+{"id":7168,"event_id":7019,"type":0,"open_step_id":5,"next_detail_id":7169},
+{"id":7169,"event_id":7019,"type":0,"open_step_id":6,"next_detail_id":7170},
+{"id":7170,"event_id":7019,"type":2,"open_step_id":0,"next_detail_id":0}]
