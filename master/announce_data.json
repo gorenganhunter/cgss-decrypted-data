@@ -741,4 +741,6 @@
 {"id":749,"type":1,"no":749,"start_date":"2025-04-27 21:00:00","end_date":"2025-05-06 23:59:59","priority":2,"parts_id":749,"set_num":3,"set_id_01":301007,"set_id_02":300287,"set_id_03":200221,"set_id_04":0,"anime_type":1},
 {"id":750,"type":1,"no":750,"start_date":"2025-04-29 15:00:00","end_date":"2025-05-08 14:59:59","priority":3,"parts_id":750,"set_num":1,"set_id_01":201465,"set_id_02":0,"set_id_03":0,"set_id_04":0,"anime_type":1},
 {"id":751,"type":1,"no":751,"start_date":"2025-05-08 15:00:00","end_date":"2025-05-17 14:59:59","priority":1,"parts_id":751,"set_num":2,"set_id_01":201471,"set_id_02":101395,"set_id_03":0,"set_id_04":0,"anime_type":1},
-{"id":752,"type":1,"no":752,"start_date":"2025-05-08 15:00:00","end_date":"2025-05-17 14:59:59","priority":2,"parts_id":752,"set_num":2,"set_id_01":101365,"set_id_02":201433,"set_id_03":0,"set_id_04":0,"anime_type":1}]
+{"id":752,"type":1,"no":752,"start_date":"2025-05-08 15:00:00","end_date":"2025-05-17 14:59:59","priority":2,"parts_id":752,"set_num":2,"set_id_01":101365,"set_id_02":201433,"set_id_03":0,"set_id_04":0,"anime_type":1},
+{"id":753,"type":1,"no":753,"start_date":"2025-05-17 15:00:00","end_date":"2025-05-20 14:59:59","priority":1,"parts_id":753,"set_num":0,"set_id_01":0,"set_id_02":0,"set_id_03":0,"set_id_04":0,"anime_type":2},
+{"id":754,"type":1,"no":754,"start_date":"2025-05-17 15:00:00","end_date":"2025-05-20 14:59:59","priority":2,"parts_id":754,"set_num":3,"set_id_01":101159,"set_id_02":201331,"set_id_03":300971,"set_id_04":0,"anime_type":1}]
