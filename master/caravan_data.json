@@ -508,4 +508,12 @@
 {"event_id":2071,"date":"2025/05/14","date_order":6,"bonus_type":1,"disp":2},
 {"event_id":2071,"date":"2025/05/15","date_order":7,"bonus_type":2,"disp":2},
 {"event_id":2071,"date":"2025/05/16","date_order":8,"bonus_type":3,"disp":2},
-{"event_id":2071,"date":"2025/05/17","date_order":9,"bonus_type":5,"disp":2}]
+{"event_id":2071,"date":"2025/05/17","date_order":9,"bonus_type":5,"disp":2},
+{"event_id":2072,"date":"2025/06/09","date_order":1,"bonus_type":2,"disp":1},
+{"event_id":2072,"date":"2025/06/10","date_order":2,"bonus_type":3,"disp":1},
+{"event_id":2072,"date":"2025/06/11","date_order":3,"bonus_type":1,"disp":1},
+{"event_id":2072,"date":"2025/06/12","date_order":4,"bonus_type":2,"disp":1},
+{"event_id":2072,"date":"2025/06/13","date_order":5,"bonus_type":3,"disp":2},
+{"event_id":2072,"date":"2025/06/14","date_order":6,"bonus_type":1,"disp":2},
+{"event_id":2072,"date":"2025/06/15","date_order":7,"bonus_type":2,"disp":2},
+{"event_id":2072,"date":"2025/06/16","date_order":8,"bonus_type":5,"disp":2}]
