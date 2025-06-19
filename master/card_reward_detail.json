@@ -1352,6 +1352,8 @@
 {"id":101402,"reward_type":3},
 {"id":101403,"reward_type":5},
 {"id":101404,"reward_type":5},
+{"id":101405,"reward_type":9},
+{"id":101406,"reward_type":9},
 {"id":200001,"reward_type":1},
 {"id":200002,"reward_type":1},
 {"id":200003,"reward_type":1},

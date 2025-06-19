@@ -14,6 +14,7 @@
 {"id":119,"disp_order":19,"name":"さぁ ! おしくらまんじゅう","motion_id":119,"cutt_name":"Cutt_Pose0119","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
 {"id":120,"disp_order":20,"name":"いっしょに輝く夢の世界へ♡","motion_id":120,"cutt_name":"Cutt_Pose0120","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
 {"id":121,"disp_order":21,"name":"あなたと待ち合わせ","motion_id":121,"cutt_name":"Cutt_Pose0121","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
+{"id":122,"disp_order":22,"name":"君のこと、本当は…♡","motion_id":122,"cutt_name":"Cutt_Pose0122","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
 {"id":1011,"disp_order":1101,"name":"卯月ちゃんっぽく !","motion_id":1011,"cutt_name":"Cutt_Pose1011","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
 {"id":1021,"disp_order":1102,"name":"有香ちゃんっぽく !","motion_id":1021,"cutt_name":"Cutt_Pose1021","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
 {"id":1031,"disp_order":1103,"name":"ゆかりちゃんっぽく !","motion_id":1031,"cutt_name":"Cutt_Pose1031","motion_type":1,"need_roomitem":0,"chara_id":0,"need_chara_count":0,"original_flag":0,"looptype":2,"release_flag":0},
