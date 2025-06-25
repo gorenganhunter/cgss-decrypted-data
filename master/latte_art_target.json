@@ -1024,4 +1024,10 @@
 {"id":1024,"type":1,"latte_id":657,"val_id":31098,"card_id":101239},
 {"id":1025,"type":1,"latte_id":530,"val_id":31099,"card_id":301091},
 {"id":1026,"type":1,"latte_id":531,"val_id":31099,"card_id":201139},
-{"id":1027,"type":1,"latte_id":532,"val_id":31099,"card_id":101119}]
+{"id":1027,"type":1,"latte_id":532,"val_id":31099,"card_id":101119},
+{"id":1028,"type":1,"latte_id":665,"val_id":31107,"card_id":201291},
+{"id":1029,"type":1,"latte_id":666,"val_id":31107,"card_id":301227},
+{"id":1030,"type":1,"latte_id":667,"val_id":31107,"card_id":101249},
+{"id":1031,"type":1,"latte_id":541,"val_id":31108,"card_id":301099},
+{"id":1032,"type":1,"latte_id":542,"val_id":31108,"card_id":201153},
+{"id":1033,"type":1,"latte_id":543,"val_id":31108,"card_id":101129}]
