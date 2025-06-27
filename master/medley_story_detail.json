@@ -439,4 +439,11 @@
 {"id":7152,"event_id":3051,"type":0,"open_event_point":5000,"next_detail_id":7153},
 {"id":7153,"event_id":3051,"type":2,"open_event_point":0,"next_detail_id":0},
 {"id":7154,"event_id":3051,"type":0,"open_event_point":0,"next_detail_id":0},
-{"id":7155,"event_id":3051,"type":0,"open_event_point":0,"next_detail_id":0}]
+{"id":7155,"event_id":3051,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":7206,"event_id":3052,"type":1,"open_event_point":0,"next_detail_id":7207},
+{"id":7207,"event_id":3052,"type":0,"open_event_point":500,"next_detail_id":7208},
+{"id":7208,"event_id":3052,"type":0,"open_event_point":1000,"next_detail_id":7209},
+{"id":7209,"event_id":3052,"type":0,"open_event_point":2000,"next_detail_id":7210},
+{"id":7210,"event_id":3052,"type":0,"open_event_point":3000,"next_detail_id":7211},
+{"id":7211,"event_id":3052,"type":0,"open_event_point":5000,"next_detail_id":7212},
+{"id":7212,"event_id":3052,"type":2,"open_event_point":0,"next_detail_id":0}]
