@@ -17,4 +17,6 @@
 {"id":17,"live_data_id":493,"new_live_data_id":915,"type":11,"value_1":0,"value_2":0,"value_3":0},
 {"id":18,"live_data_id":404,"new_live_data_id":404,"type":4,"value_1":42,"value_2":12,"value_3":7},
 {"id":19,"live_data_id":1320,"new_live_data_id":1320,"type":5,"value_1":44,"value_2":12,"value_3":7},
-{"id":20,"live_data_id":1509,"new_live_data_id":1509,"type":5,"value_1":44,"value_2":12,"value_3":7}]
+{"id":20,"live_data_id":1509,"new_live_data_id":1509,"type":5,"value_1":44,"value_2":12,"value_3":7},
+{"id":21,"live_data_id":1334,"new_live_data_id":1334,"type":5,"value_1":48,"value_2":12,"value_3":7},
+{"id":22,"live_data_id":1522,"new_live_data_id":1522,"type":5,"value_1":48,"value_2":12,"value_3":7}]

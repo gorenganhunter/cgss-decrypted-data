@@ -33,4 +33,5 @@
 {"id":43,"name":"オーバー\\nドライブ","skill_id":"43","variation_group_id":43},
 {"id":44,"name":"トリコロール\\n・スパイク","skill_id":"44","variation_group_id":44},
 {"id":45,"name":"ドミナント\\n・ハーモニー","skill_id":"45,46,47,48,49,50","variation_group_id":45},
-{"id":46,"name":"クリスタル\\n・ヒール","skill_id":"51","variation_group_id":51}]
+{"id":46,"name":"クリスタル\\n・ヒール","skill_id":"51","variation_group_id":51},
+{"id":47,"name":"スターライト\\nアンサンブル","skill_id":"52","variation_group_id":52}]
