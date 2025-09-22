@@ -1,4 +1,5 @@
-[{"id":2,"source_id":1011,"condition_type":301,"condition_id":1011,"condition_value":1},
+[{"id":0,"source_id":0,"condition_type":304,"condition_id":0,"condition_value":0},
+{"id":2,"source_id":1011,"condition_type":301,"condition_id":1011,"condition_value":1},
 {"id":3,"source_id":1671,"condition_type":301,"condition_id":1671,"condition_value":1},
 {"id":4,"source_id":2341,"condition_type":301,"condition_id":2341,"condition_value":1},
 {"id":5,"source_id":1081,"condition_type":301,"condition_id":1081,"condition_value":1},
