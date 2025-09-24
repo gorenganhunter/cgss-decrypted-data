@@ -886,4 +886,6 @@
 {"id":7239,"event_id":1099,"type":0,"open_event_point":2000,"next_detail_id":7240},
 {"id":7240,"event_id":1099,"type":0,"open_event_point":3000,"next_detail_id":7241},
 {"id":7241,"event_id":1099,"type":0,"open_event_point":5000,"next_detail_id":7242},
-{"id":7242,"event_id":1099,"type":2,"open_event_point":0,"next_detail_id":0}]
+{"id":7242,"event_id":1099,"type":2,"open_event_point":0,"next_detail_id":0},
+{"id":7243,"event_id":1099,"type":0,"open_event_point":0,"next_detail_id":0},
+{"id":7244,"event_id":1099,"type":0,"open_event_point":0,"next_detail_id":0}]

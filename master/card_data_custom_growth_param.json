@@ -27,4 +27,10 @@
 {"point":27,"add_vocal":3955,"add_dance":3955,"add_visual":3955,"add_life":74},
 {"point":28,"add_vocal":4070,"add_dance":4070,"add_visual":4070,"add_life":76},
 {"point":29,"add_vocal":4185,"add_dance":4185,"add_visual":4185,"add_life":78},
-{"point":30,"add_vocal":4300,"add_dance":4300,"add_visual":4300,"add_life":80}]
+{"point":30,"add_vocal":4300,"add_dance":4300,"add_visual":4300,"add_life":80},
+{"point":31,"add_vocal":4415,"add_dance":4415,"add_visual":4415,"add_life":82},
+{"point":32,"add_vocal":4530,"add_dance":4530,"add_visual":4530,"add_life":84},
+{"point":33,"add_vocal":4645,"add_dance":4645,"add_visual":4645,"add_life":86},
+{"point":34,"add_vocal":4760,"add_dance":4760,"add_visual":4760,"add_life":88},
+{"point":35,"add_vocal":4875,"add_dance":4875,"add_visual":4875,"add_life":90},
+{"point":36,"add_vocal":5000,"add_dance":5000,"add_visual":5000,"add_life":92}]
