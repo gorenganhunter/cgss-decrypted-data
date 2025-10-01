@@ -134,7 +134,7 @@
 {"view_type":1,"view_id":3300,"order":8,"tutorial_id":20208,"tutorial_help_id":178,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"同時実行可能数"},
 {"view_type":1,"view_id":3300,"order":9,"tutorial_id":20209,"tutorial_help_id":184,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"エリア選択画面\\nリニューアル"},
 {"view_type":1,"view_id":3300,"order":10,"tutorial_id":20210,"tutorial_help_id":190,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"オート再出発"},
-{"view_type":1,"view_id":3300,"order":11,"tutorial_id":20299,"tutorial_help_id":-1,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"キャンペーン"},
+{"view_type":1,"view_id":3300,"order":11,"tutorial_id":20299,"tutorial_help_id":-1,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"レギュラー営業\\n追加"},
 {"view_type":1,"view_id":3610,"order":1,"tutorial_id":90513,"tutorial_help_id":-1,"force_display":0,"disable_platform_bit":0,"button_position_type":0,"button_text":"君だけの１枚を ! \\nシンデレラショット"},
 {"view_type":1,"view_id":4000,"order":1,"tutorial_id":90304,"tutorial_help_id":-1,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"SSR獲得キャンペーン"},
 {"view_type":1,"view_id":4300,"order":1,"tutorial_id":90305,"tutorial_help_id":-1,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"ぴにゃ博士からのミッションキャンペーン"},
@@ -204,4 +204,5 @@
 {"view_type":2,"view_id":11,"order":1,"tutorial_id":40007,"tutorial_help_id":96,"force_display":1,"disable_platform_bit":0,"button_position_type":1,"button_text":"一括保護"},
 {"view_type":2,"view_id":11,"order":2,"tutorial_id":40601,"tutorial_help_id":101,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"編成画面\\n表示切替"},
 {"view_type":2,"view_id":18,"order":1,"tutorial_id":40007,"tutorial_help_id":96,"force_display":1,"disable_platform_bit":0,"button_position_type":1,"button_text":"一括保護"},
-{"view_type":2,"view_id":18,"order":2,"tutorial_id":40601,"tutorial_help_id":101,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"編成画面\\n表示切替"}]
+{"view_type":2,"view_id":18,"order":2,"tutorial_id":40601,"tutorial_help_id":101,"force_display":1,"disable_platform_bit":0,"button_position_type":0,"button_text":"編成画面\\n表示切替"},
+{"view_type":2,"view_id":22,"order":1,"tutorial_id":80802,"tutorial_help_id":196,"force_display":1,"disable_platform_bit":0,"button_position_type":1,"button_text":"LIVE Carnival\\nリハーサル"}]

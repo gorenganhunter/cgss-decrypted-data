@@ -19,5 +19,6 @@
 {"id":119,"description":"プラチナガシャ1日1回無料 !","type":87,"value":0,"icon_img":100,"start_date":"2025-09-22 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":7,"panel_frame_id":155,"sort_order":2},
 {"id":120,"description":"レッスン大成功率3倍 !","type":1,"value":30000,"icon_img":100,"start_date":"2025-09-22 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":2,"panel_frame_id":0,"sort_order":15},
 {"id":121,"description":"フロアの課題進捗が2倍 !","type":203,"value":0,"icon_img":100,"start_date":"2025-09-24 15:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":15,"panel_frame_id":0,"sort_order":4},
+{"id":122,"description":"限定アイテムを交換可能 !","type":204,"value":0,"icon_img":100,"start_date":"2025-10-01 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":16,"panel_frame_id":0,"sort_order":3},
 {"id":123,"description":"LIVEでスターエンブレムを\\n確率で獲得 !","type":205,"value":0,"icon_img":100,"start_date":"2025-09-22 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":4,"panel_frame_id":0,"sort_order":5},
 {"id":124,"description":"ログインボーナスで当日限定\\nスタミナドリンク50を獲得 !","type":206,"value":0,"icon_img":100,"start_date":"2025-09-22 00:00:00","end_date":"2099-03-01 23:59:59","panel_icon_id":17,"panel_frame_id":0,"sort_order":12}]
